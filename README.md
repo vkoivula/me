@@ -5,4 +5,4 @@ I am starting my super slow migration into this digital repository. One day ther
 
 But unlike in BBS systems, I don't think it will be a social norm to list your personal computer and network hardware in your profile.
 
-So instead of a list of hardware, there is a homepage of my cat [Surkia].
+So instead of a list of hardware, there is a homepage of my cat [Surkia](../Surkia).
